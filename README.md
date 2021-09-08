@@ -5,3 +5,9 @@ Bu yerda siz mening Front-end ishlarimni ko'rishingiz mumkin
 
 ---
 
+Mening ishlarim
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
